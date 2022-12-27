@@ -15,7 +15,18 @@ Using the slicing concept rotate the list
 ### Step 5: 
 ### Step 6: 
 ## Program:
+```
+Program to swap two values.
+#Developed by: anbuselvam
+#RegisterNumber:22009081
+a=input()
+b=input()
+a,b=b,a
+print("Swapped values are:",a,b)
+```
+
 
 ## Output:
-
+![output](circulating%20n%20variables.png)
 ## Result:
+thus the circulating the variables of n variables  successfully executed
