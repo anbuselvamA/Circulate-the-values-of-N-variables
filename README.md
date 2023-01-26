@@ -25,8 +25,7 @@ a,b=b,a
 print("Swapped values are:",a,b)
 ```
 
-
 ## Output:
 ![output](circulating%20n%20variables.png)
 ## Result:
-thus the circulating the variables of n variables  successfully executed
+thus the circulating the vables of n variables  successfully executed
